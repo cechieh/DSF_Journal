@@ -1,1 +1,80 @@
 
+# Welcome to the my_weekly_progress_as_DSF wiki!
+
+# Week 1 
+## What did you learn this week?
+### Maliaca's welcome lecture introduced me to open science.
+### for the first time I used the self assessment tool on open science.
+
+##How did you apply/try to apply what you learned?
+### I researched on other self assessment tools besides the one used in the class.
+### I administered this tool on my friends and peers and they were as surprised as me that such exists
+
+## What will you do next?
+### I hope document the poor adoption of open science by researchers in my home country. This may be the beginning open science advocacy in the tropics.
+
+# Week 2
+## What did you learn this week?
+### Greg's lecture on introduction to github made me dust my github account.
+## How did you apply/try to apply what you learned?
+### for the first time I prepared a presentation using github. This presentation was my [DSF Introduction](https://github.com/cechieh/DSF/wiki/My-DSF-Introduction)
+
+## What will you do next?
+### I hope to routinely use github for my manuscript preparation.
+
+# Week 3 
+## What did you learn this week?
+### This week I learnt the ethics of data from Lydia's presentation on moving from data "wardship" to data sovereignty. The concepts of Helicopter science was entirely new to me.
+
+## What will you do next?
+### I hope to include more community paticipation in my community based research. I once worked my boss to obtain data on wound practices in the community, if I were do that work all over, I will do it differently.
+
+# Week 4
+## This week we had conversations on github licenses and posting data as public versus private on github.
+While many peers are comfortable with public sharing of data and use of MIT github license, I am constrained by the fact that most of my work currently involving secondary data analyses and I am made to agree to data use agreement which limits me from sharing data or permitting others to share data obtained from databases. From this background, I decided to keep my github data private for now. Thisdoes not go against the FAIR principles since the dataset is already available in repositories that are accessible on request.
+
+# Week 5
+## What did you learn this week?
+###We discussed Cyverse in our group challenge.
+### I learned a lot about project management and documentation. 
+### I worked with Carlos to debug a challenge I have converting a dataset from STATA to SPSS. This took 2whole hours of Carlos's time and I am so grateful to him for dedicating so much time to me.
+
+
+##How did you apply/try to apply what you learned?
+### I was able to try out google colab for the first time.
+
+## What will you do next?
+### Improve my coding skills and find more applicable skill to my clinical practice.
+### with my data now in SPSS, I will be able to collaborate with my clinician colleage to prepare an abstract for presentation at the International Society for Heart and Lung Transplantation Meeting scheduled for next year.
+
+
+# Week 6
+
+##
+### Attended Carlos"s Python class where we talked about Panda.
+### while a lot of the demonstrations by Carlos were new to me, I am grateful for the exposure.
+
+## What will you do next?
+### Improve my coding skills and find more applicable skill to my clinical practice.
+### I worked on my manuscript for the conference hence my attention to details and recall of DSF activities were reduced.
+
+
+# Week 7
+## I submitted my abstract for the conference.
+## I attended Greg's session on R.
+## I had a challenge with pushing from R to github because of git cofig --global.user "username" code was not running.
+## I will find a way to trouble shoot on this
+
+
+# Here is my introduction to DSF
+https://github.com/cechieh/DSF/wiki/My-DSF-Introduction
+
+# Here is the project I am currently working on
+https://github.com/cechieh/DSF/wiki/Determination-of-Delay-Patterns-in-the-Lung-Cancer-Care-Continuum
+
+
+# Here is a collection of resources I have got from DSF
+https://github.com/cechieh/DSF/wiki/Notes-from-DSF
+
+#Here is my baby steps at learning R
+https://a0da1003e.cyverse.run/
