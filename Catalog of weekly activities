@@ -65,7 +65,17 @@ While many peers are comfortable with public sharing of data and use of MIT gith
 ## I had a challenge with pushing from R to github because of git cofig --global.user "username" code was not running.
 ## I will find a way to trouble shoot on this
 
+# Week 8
+## This week was challenging because we talked about automation in Cyverse. 
+## FOllowing this conversation I am consideration how to automate a medical record platform to allow for extraction of personal heart information in a way that is adaptable to open science.
+The taughts are still fluid but I reason that if the EMR platform is such that it can de-identify subjects and instead attach an unintelligible identification codes at time of extraction, it can allow for a more open data extraction.
 
+## This week, I had a challenge with my Cyverse account as I hit a glitch and was notified that I had exceeded my compute limit on Cyverse.
+## I had to contact cyverse to give me some allowance following which it seems I lost some data. 
+## The lessons I learned from this experience is not to have a single copy of my data. This will allow replacement when the need arises.
+
+## On our group challenge, I also had difficulty with the code hit config --global.user "esername"
+## I am still working on this as at the time of this entry.
 # Here is my introduction to DSF
 https://github.com/cechieh/DSF/wiki/My-DSF-Introduction
 
