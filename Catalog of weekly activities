@@ -89,6 +89,11 @@ The concept of reverse editing was also very interesting to apply to scientific 
 ## THis week in our challenge, Greg and I troubleshooted a difference we say between the desktop and the Cyverse versions of R. The challenge was in pushing from R to Git in the cyverse version. 
 ## This restriction mut be a security to to protect multiple users of the cyverse version of R.
 
+# Week 10
+In our DSF Lesson this week, Carlos took us through Data Visualization.
+The difficulties were in getting the softwares ready. We installed VS Code and Docker container but I ran on Anaconda Jupyter notebook
+Here is a html file of my activity out put http://localhost:8888/notebooks/ExploratoryDataAnalysis-Seaborn_Carlos.ipynb
+
 # Here is the project I am currently working on
 https://github.com/cechieh/DSF/wiki/Determination-of-Delay-Patterns-in-the-Lung-Cancer-Care-Continuum
 
